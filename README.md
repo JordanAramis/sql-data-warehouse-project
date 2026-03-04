@@ -101,14 +101,17 @@ data-warehouse-project/
 
 ## 👤 Sobre mí
 
-Soy Jordan Coronado Andrade, Data Analyst en el sector comercial, especializado en automatización ETL, desarrollo en SQL y construcción de dashboards en Power BI.
+Soy **Jordan Aramis**, Data Analyst con experiencia en diseño y automatización de procesos ETL, desarrollo en SQL y modelado de datos orientado a la toma de decisiones estratégicas.
 
-Actualmente me encuentro evolucionando hacia el rol de Data Engineer, con enfoque en:
+Me especializo en estructuración de datos, optimización de consultas y construcción de soluciones analíticas robustas que garantizan calidad, consistencia e integridad de la información.
 
-- Data Warehousing  
-- Arquitecturas en la nube (Azure)  
-- Orquestación de procesos ETL  
-- Soluciones de datos escalables  
+Actualmente me encuentro evolucionando hacia el rol de **Data Engineer**, enfocándome en:
+
+- Diseño e implementación de Data Warehouses
+- Modelado dimensional (Star Schema)
+- Arquitecturas de datos escalables (Medallion Architecture)
+- Orquestación y automatización de pipelines ETL
+- Soluciones en la nube con Azure
 
 📫 Email: jordanaramis97@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/jordanaramis-data/  
