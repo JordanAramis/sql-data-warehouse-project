@@ -80,18 +80,21 @@ Estos análisis permiten respaldar decisiones basadas en datos dentro del área 
 
 ## 📂 Estructura del Repositorio
 
+```bash
 data-warehouse-project/
 │
 ├── datasets/
 ├── docs/
+│   └── Arquitectura.png
 ├── scripts/
-│ ├── bronze/
-│ ├── silver/
-│ └── gold/
+│   ├── bronze/
+│   ├── silver/
+│   └── gold/
 ├── tests/
 ├── README.md
 ├── LICENSE
 └── .gitignore
+```
 
 
 ---
