@@ -10,7 +10,7 @@ El objetivo de este proyecto de portafolio es evidenciar mi transición de Data 
 
 ## 🏗 Arquitectura de Datos
 
-![Arquitectura del Data Warehouse](docs/data_architecture.png)
+![Arquitectura del Data Warehouse](docs/arquitectura.png)
 
 El proyecto sigue el enfoque de Arquitectura Medallion:
 
